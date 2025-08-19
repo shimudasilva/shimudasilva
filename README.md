@@ -1,17 +1,28 @@
+<img width="1294" height="388" alt="Frame 1 (1)" src="https://github.com/user-attachments/assets/4183edbd-af4d-46ce-8c41-d829be907723" />
 
-### Olá! Eu sou o Samuel Silva 👋🏾
-[![Linkedin](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shimusilva/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shimusilva/?next=%2F)
+---
+<div align="right">
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=shimudasilva&show_icons=true&theme=tokyonight)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shimusilva/) 
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/in/shimusilva/) 
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:shimu.dasilva@gmail.com)
 
-### Tecnologias que eu uso em trabalhos.
+</div>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt ="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt ="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt ="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+##
 
-### Sou um apaixonado por tecnologia e estou focado no meu avanço como dev.💻
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=shimudasilva&show_icons=true&theme=bluetheme)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimudasilva&layout=compact)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python)](https://skillicons.dev)
+
+##
+
+<div align= "center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+<br><br>
+
+</div>
+
+### Sou um apaixonado por tecnologia e estou focado no meu avanço como desenvolvedor fullstack.💻
