@@ -4,7 +4,7 @@
 <div align="right">
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shimusilva/) 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/in/shimusilva/) 
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shimusilva)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:shimu.dasilva@gmail.com)
 
 </div>
