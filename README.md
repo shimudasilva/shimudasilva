@@ -9,18 +9,23 @@
 
 </div>
 
-##
+---
 
 ![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=shimudasilva&show_icons=true&theme=bluetheme)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimudasilva&layout=compact)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python)](https://skillicons.dev)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+  </a>
+</p>
 
-##
+---
 
 <div align= "center">
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="700">
 <br><br>
 
 </div>
